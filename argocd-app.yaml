@@ -9,7 +9,7 @@ spec:
 
   source:
     repoURL: https://github.com/lm-academy/argocd-example-apps.git
-    targetRevision: main
+    targetRevision: HEAD
     path: guestbook
 
   destination:
