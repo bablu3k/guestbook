@@ -9,7 +9,7 @@ spec:
 
   source:
     repoURL: https://github.com/bablu3k/guestbook.git
-    targetRevision: HEAD
+    targetRevision: master
     path: guestbook
 
   destination:
