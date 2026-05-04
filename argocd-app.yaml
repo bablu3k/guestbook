@@ -9,8 +9,8 @@ spec:
 
   source:
     repoURL: https://github.com/bablu3k/guestbook.git
-    targetRevision: HEAD
-    path: guestbook
+    targetRevision: main
+    path: .
 
   destination:
     server: https://kubernetes.default.svc
