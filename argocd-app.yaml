@@ -8,7 +8,7 @@ spec:
   project: default
 
   source:
-    repoURL: hhttps://github.com/bablu3k/guestbook.git
+    repoURL: https://github.com/bablu3k/guestbook.git
     targetRevision: HEAD
     path: guestbook
 
