@@ -9,12 +9,12 @@ spec:
 
   source:
     repoURL: https://github.com/bablu3k/guestbook.git
-    targetRevision: master
+    targetRevision: main
     path: guestbook
 
   destination:
     server: https://kubernetes.default.svc
-    namespace: monitoring
+    namespace: guestbook
 
   syncPolicy:
     automated:
